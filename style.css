@@ -27,7 +27,7 @@ body::after {
 }
 
 body::before {
-  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+  background-image: url("images/wall.jpg");
   opacity: 0.35;
 }
 
